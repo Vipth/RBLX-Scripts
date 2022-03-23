@@ -2,7 +2,7 @@
 	Game Link: https://www.roblox.com/games/8396586868/Testing-A-0ne-Piece-Game
 	Made By: Vipth#7195
 	
-	Game last update when this script was made: 3/23/22
+	Game last update when this script was updated: 3/23/22
 	Script Updated : 3/23/22
 	Script Version: 2.6.0
 --]]
